@@ -1,0 +1,41 @@
+{
+  "name": "aem-dev-packs",
+  "displayName": "AEM Dev Packs",
+  "description": "Extension pack all in one for AEM Development",
+  "version": "0.0.1",
+  "publisher": "phongtranhai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thnhan1/aem-dev-packs.git"
+  },
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ecmel.vscode-html-css",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "github.copilot-chat",
+    "kamikillerto.vscode-colorize",
+    "mansquatch.create-aem-clientlib",
+    "mintai.aem-snippets",
+    "ms-vscode.vscode-typescript-next",
+    "oracle.oracle-java",
+    "phongtranhai.haidark",
+    "redhat.java",
+    "redhat.vscode-xml",
+    "rvest.vs-code-prettier-eslint",
+    "sibiraj-s.vscode-scss-formatter",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "yamato-ltd.vscode-aem-sync",
+    "yinkai15.aemsync",
+    "zignd.html-css-class-completion"
+  ]
+}
